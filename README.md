@@ -1,3 +1,3 @@
 # Programming-Course-HWs
 
-This projects developed for Introduction To Computer Science Course in 2014.
+These projects developed for Introduction to Computer Science Course in 2014.
